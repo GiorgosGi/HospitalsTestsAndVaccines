@@ -2,7 +2,7 @@ namespace HospitalsTestsAndVaccines.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;
-
+    
     public partial class seedUsers : DbMigration
     {
         public override void Up()
@@ -43,7 +43,7 @@ INSERT INTO [dbo].[Appointments] ([Id], [StartDateTime], [EndDate], [Detail], [S
 SET IDENTITY_INSERT [dbo].[Appointments] OFF
 ");
         }
-
+        
         public override void Down()
         {
         }

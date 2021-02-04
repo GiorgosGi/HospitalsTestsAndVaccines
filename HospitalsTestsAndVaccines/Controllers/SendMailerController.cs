@@ -32,7 +32,7 @@ namespace HospitalsTestsAndVaccines.Controllers
                 smtp.Host = "smtp.gmail.com";
                 smtp.Port = 587;
                 smtp.UseDefaultCredentials = false;
-                smtp.Credentials = new System.Net.NetworkCredential("metroHospitaltest@gmail.com", "enter_your_mail_pass"); // Enter senders User name and password  
+                smtp.Credentials = new System.Net.NetworkCredential("metroHospitaltest@gmail.com", "your_password_here"); // Enter senders User name and password  
                 smtp.EnableSsl = true;
                 smtp.Send(mail);
                 return View("Index", _objModelMail);

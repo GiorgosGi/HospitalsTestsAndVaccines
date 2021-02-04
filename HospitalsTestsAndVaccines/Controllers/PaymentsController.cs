@@ -25,7 +25,7 @@ namespace HospitalsTestsAndVaccines.Controllers
         [HttpPost]
         public ActionResult Charge(string stripeToken, string stripeEmail)
         {
-            Stripe.StripeConfiguration.SetApiKey("stripePublishableKey");
+            //Stripe.StripeConfiguration.SetApiKey("stripePublishableKey");
             Stripe.StripeConfiguration.ApiKey = "stripeSecretKey";
 
             AppointmentFormViewModel GetProductPrice = new AppointmentFormViewModel();
