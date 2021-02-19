@@ -1,5 +1,4 @@
 # HospitalsTestsAndVaccines
-A working asp.net MVC app for helping manage a covid-19 clinic
 
 This is a working asp.net MVC app, created as a group project, while attending coding bootcamp MchlplsM#12 at PeopleCert Education.
 The members of our reams included:
