@@ -1,10 +1,11 @@
 # HospitalsTestsAndVaccines
 
 This is a working asp.net MVC app, created as a group project, while attending coding bootcamp #12 at PeopleCert Education.
-The members of our reams were:
+The members of our teams were:
 Marios Michalopoulos: https://github.com/MchlplsM
 Haris Arapakis: https://github.com/harisarapakis
 Konstantinos Skylakos: https://github.com/Doggy96
+Giorgos Gialouris https://github.com/GiorgosGi
 
 HospitalsTestsAndVaccines web app supports patient registration for scheduling appointments for services provided by a clinic, and also managing the appointments by the clinic manager.
 
