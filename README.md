@@ -1,22 +1,22 @@
 # HospitalsTestsAndVaccines
 
 This is a working asp.net MVC app, created as a group project, while attending coding bootcamp MchlplsM#12 at PeopleCert Education.
-The members of our reams included:
--Marios Michalopoulos: https://github.com/MchlplsM
--Haris Arapakis: https://github.com/harisarapakis
--Konstantinos Skylakos: https://github.com/Doggy96
+The members of our reams were:
+Marios Michalopoulos: https://github.com/MchlplsM
+Haris Arapakis: https://github.com/harisarapakis
+Konstantinos Skylakos: https://github.com/Doggy96
 
 HospitalsTestsAndVaccines web app supports patient registration for scheduling appointments for services provided by a clinic, and also managing the appointments by the clinic manager.
 
 Frameworks - Libraries
 
--ASP.NET MVC (version 5)
--Entity Framework
--ASP.NET SignalR
--Web Grease
--Stripe.net 
--DHTMLX scheduler 
--Automapper
+ASP.NET MVC (version 5) /
+Entity Framework /
+ASP.NET SignalR /
+Web Grease /
+Stripe.net /
+DHTMLX scheduler /
+Automapper
 
 Running Project:
 Open the project with Visual Studio.
