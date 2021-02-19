@@ -1,6 +1,6 @@
 # HospitalsTestsAndVaccines
 
-This is a working asp.net MVC app, created as a group project, while attending coding bootcamp MchlplsM#12 at PeopleCert Education.
+This is a working asp.net MVC app, created as a group project, while attending coding bootcamp #12 at PeopleCert Education.
 The members of our reams were:
 Marios Michalopoulos: https://github.com/MchlplsM
 Haris Arapakis: https://github.com/harisarapakis
