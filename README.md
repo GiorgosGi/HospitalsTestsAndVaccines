@@ -20,7 +20,7 @@ Automapper
 
 Running the app:
 Open the project with Visual Studio.
-In web.configfile change the connection string according to your system.
+In web.config file change the connection string according to your system.
 
 In package manager console run the following commands
 - enable-migrations
