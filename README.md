@@ -18,7 +18,7 @@ Stripe.net /
 DHTMLX scheduler /
 Automapper
 
-Running Project:
+Running the app:
 Open the project with Visual Studio.
 In web.configfile change the connection string according to your system.
 
