@@ -968,9 +968,12 @@
     <Content Include="Content\assetsForMaps\vendor\remixicon\remixicon.ttf" />
     <Content Include="Content\assetsForMaps\vendor\remixicon\remixicon.woff" />
     <Content Include="Content\assetsForMaps\vendor\remixicon\remixicon.woff2" />
+    <None Include="Properties\PublishProfiles\Default Settings.pubxml" />
     <None Include="Properties\PublishProfiles\HospitalsTestsAndVaccines - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\HospitalsTestsAndVaccines2021 - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\HospitalsTestsAndVaccines20210203120440 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\IISProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\IISProfile1.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\DataTables\autoFill.bootstrap.js" />
     <Content Include="Scripts\DataTables\autoFill.bootstrap.min.js" />
@@ -1260,7 +1263,6 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
-    <Content Include="Views\Payments\PaymentWithPayPal.cshtml" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -1312,8 +1314,6 @@
     <Content Include="Views\Products\IndexViewDefault.cshtml" />
     <Content Include="Views\Appointments\AllAppointments.cshtml" />
     <Content Include="Views\Home\Chat.cshtml" />
-    <Content Include="Views\Payments\FailureView.cshtml" />
-    <Content Include="Views\Payments\SuccessView.cshtml" />
     <Content Include="Views\SendMailer\Index.cshtml" />
     <Content Include="Views\Appointments\Calendar.cshtml" />
     <Content Include="Views\Appointments\NewAppointmentOfPatient.cshtml" />
@@ -1368,7 +1368,7 @@
           <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
         </WebProjectProperties>
       </FlavorProperties>
-      <UserProperties content_4bootstrap-theme_1min_1css_1map__JsonSchema="" content_4bootstrap_1css_1map__JsonSchema="" />
+      <UserProperties content_4bootstrap_1css_1map__JsonSchema="" content_4bootstrap-theme_1min_1css_1map__JsonSchema="" />
     </VisualStudio>
   </ProjectExtensions>
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
