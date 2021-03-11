@@ -10,6 +10,7 @@ namespace HospitalsTestsAndVaccines.Models
     {
         [Key]
         public int Id { get; set; }
+
         [Required]
         [Display(Name = "Όνομα Προϊόντος")]
         public string ProductName { get; set; }
